@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Aymaan</h1>
 <h3 align="center">A passionate full-stack, gen-ai, blockchain developer from India</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?DevMaam707=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmaan707&label=Profile%20views&color=0e75b6&style=flat" alt="devmaan707" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmaan707" alt="devmaan707" /></a> </p>
