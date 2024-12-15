@@ -46,17 +46,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=devmaan707&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmaan707&show_icons=true&locale=en&layout=compact" alt="devmaan707" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devmaan707&show_icons=true&locale=en" alt="devmaan707" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmaan707&" alt="devmaan707" /></p>
-
-
-
----
-
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
