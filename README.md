@@ -14,8 +14,8 @@
 
 # 💫 About Me:
 - 🌱 I’m currently learning **App Development, Backend Development, Node-JS, DSA**
-- 👨‍💻 All of my projects are available at [https://github.com/prajjwa-lit](https://github.com/prajjwa-lit) 
-- 📫 How to reach me **prajjwal026@gmail.com**
+- 👨‍💻 All of my projects are available at [https://github.com/devmaan707](https://github.com/devmaan707) 
+- 📫 How to reach me **dev.maan707@gmail.com**
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif?cid=ecf05e47q6k4xns7eaflnkt8jfsrtc3ru58j28klf5x7rw87&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
@@ -46,8 +46,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=devmaan707&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmaan707&show_icons=true&locale=en&layout=compact" alt="devmaan707" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devmaan707&show_icons=true&locale=en" alt="devmaan707" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmaan707&" alt="devmaan707" /></p>
 
 
 
