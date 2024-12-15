@@ -10,10 +10,13 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com/?color=333d7a%&size=32&center=true&vCenter=true&width=600&height=50&pause=800&vCenter=true&background=faebee&lines=App+Development;Problem+Solving;Backend+Development;A.I.+Tools" alt="Headline" />
 </div>
 <img align="right" width="250" height="300" alt="Coding" width="350" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
-# 💫 About Me:
+<div align="left">
+ # 💫 About Me:
 - 🌱 I’m currently learning **App Development, Backend Development, Node-JS, DSA**
 - 👨‍💻 All of my projects are available at [https://github.com/devmaan707](https://github.com/devmaan707) 
 - 📫 How to reach me **dev.maan707@gmail.com**
+</div>
+
 
 
 
