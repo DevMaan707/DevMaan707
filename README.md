@@ -15,7 +15,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/devmaan707](https://github.com/devmaan707) 
 - 📫 How to reach me **dev.maan707@gmail.com**
 
-<img align="right" width="100" height="150" alt="Coding" width="350" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
+<img align="right" width="250" height="300" alt="Coding" width="350" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
 
 
 <h3 align="left">Connect with me:</h3>
