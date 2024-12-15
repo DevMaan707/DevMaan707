@@ -4,10 +4,26 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmaan707&label=Profile%20views&color=0e75b6&style=flat" alt="devmaan707" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devmaan707" alt="devmaan707" /></a> </p>
-
-- 🌱 I’m currently learning **Rust**
-
+# 💫 About Me:
+- 🌱 I’m currently learning **Rust Development, Blockchain**
+- 👨‍💻 All of my projects are available at [https://github.com/DevMaan707](https://github.com/devmaan707) 
 - 📫 How to reach me **dev.maan707@gmail.com**
+
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/PrajjwalitHere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="PrajjwalitHere" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prajjwal-tripathi-a2473a276/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajjwal-tripathi-a2473a276/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/prajjwa.lit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prajjwa.lit" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/why_prajjwalit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="why_prajjwalit" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/prajjwal026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prajjwal026" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/prajjwalit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prajjwalit" height="30" width="40" /></a>
+</p>
+
+### Total Profile Views:
+![Visitor Count](https://profile-counter.glitch.me/prajjwa-lit/count.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
