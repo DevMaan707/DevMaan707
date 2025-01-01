@@ -1,5 +1,5 @@
 <div align="center">
- <h1 align="center">Hi 👋, I'm Mohammed Aymaan</h1>
+ <h1 align="center">Hi 👋, I'm Aymaan</h1>
 <h3 align="center">A passionate full-stack, gen-ai, blockchain developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmaan707&label=Profile%20views&color=0e75b6&style=flat" alt="devmaan707" /> </p>
