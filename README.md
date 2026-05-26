@@ -1,51 +1,268 @@
+<!--
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║              GitHub Profile README — @devmaan707                 ║
+  ║         Rust  •  Go  •  Flutter  •  Gen-AI  •  Blockchain        ║
+  ╚══════════════════════════════════════════════════════════════════╝
+-->
+
+<!-- ╭─── HERO BANNER ────────────────────────────────────────────────╮ -->
 <div align="center">
- <h1 align="center">Hi 👋, I'm Aymaan</h1>
-<h3 align="center">A passionate full-stack, gen-ai, blockchain developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devmaan707&label=Profile%20views&color=0e75b6&style=flat" alt="devmaan707" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Mohammed%20Aymaan&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Rust%20%E2%80%A2%20Go%20%E2%80%A2%20Flutter%20%E2%80%A2%20Gen-AI%20%E2%80%A2%20Blockchain&descAlignY=58&descSize=18" width="100%" alt="Header banner"/>
 
-<br>
+<a href="https://github.com/devmaan707">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=F74C00&center=true&vCenter=true&multiline=true&width=720&height=90&lines=Systems+%E2%9A%99%EF%B8%8F+Rust+%7C+Go+%7C+Flutter;Building+resilient+distributed+systems;Crafting+delightful+mobile+experiences;Exploring+Gen-AI+%26+Web3+frontiers" alt="Typing animation"/>
+</a>
 
+<br/>
 
-<img align="center" src="https://readme-typing-svg.herokuapp.com/?color=333d7a%&size=32&center=true&vCenter=true&width=600&height=50&pause=800&vCenter=true&background=faebee&lines=App+Development;Problem+Solving;Backend+Development;A.I.+Tools" alt="Headline" />
+<a href="https://github.com/devmaan707">
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-F74C00?style=for-the-badge&logo=github&logoColor=white" alt="Open to collaborate"/>
+</a>
+<a href="mailto:dev.maan707@gmail.com">
+  <img src="https://img.shields.io/badge/Reach%20me-Email-2EA043?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://komarev.com/ghpvc/?username=devmaan707">
+  <img src="https://komarev.com/ghpvc/?username=devmaan707&label=Profile+Views&color=F74C00&style=for-the-badge" alt="Profile views"/>
+</a>
+<a href="https://github.com/devmaan707?tab=followers">
+  <img src="https://img.shields.io/github/followers/devmaan707?label=Followers&style=for-the-badge&color=F74C00&logo=github&logoColor=white" alt="Followers"/>
+</a>
+
 </div>
 
+<!-- ╭─── ABOUT ME ───────────────────────────────────────────────────╮ -->
 
- # 💫 About Me:
-- 🌱 I’m currently learning **App Development, Backend Development, Node-JS, DSA**
-- 👨‍💻 All of my projects are available at [https://github.com/devmaan707](https://github.com/devmaan707) 
-- 📫 How to reach me **dev.maan707@gmail.com**
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> &nbsp; About Me
 
-<img align="right" width="200" height="250" alt="Coding" width="350" src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif">
+<table>
+<tr>
+<td width="62%" valign="top">
 
+```rust
+pub struct Developer {
+    name:     &'static str,
+    role:     &'static str,
+    location: &'static str,
+    stack:    [&'static str; 5],
+    focus:    Vec<Focus>,
+}
 
+impl Developer {
+    pub fn new() -> Self {
+        Self {
+            name:     "Mohammed Aymaan",
+            role:     "Full-Stack • Gen-AI • Blockchain",
+            location: "India 🇮🇳",
+            stack:    ["Rust", "Go", "Flutter", "TS", "Python"],
+            focus:    vec![
+                Focus::SystemsProgramming,
+                Focus::DistributedBackends,
+                Focus::CrossPlatformMobile,
+                Focus::AIEngineering,
+                Focus::Web3,
+            ],
+        }
+    }
+}
+```
 
+</td>
+<td width="38%" align="center" valign="top">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/i_devmaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@i_devmaan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammed aymaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed aymaan" height="30" width="40" /></a>
-<a href="https://instagram.com/i.devmaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.devmaan" height="30" width="40" /></a>
-</p>
-</p>
+<img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" width="240" alt="Coding"/>
 
-### Total Profile Views:
-![Visitor Count](https://profile-counter.glitch.me/devmaan707/count.svg)
+<br/><br/>
 
-# 💻 Language and Tools:
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" width="100%" alt="Joke of the day"/>
 
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+</td>
+</tr>
+</table>
 
+> 🌱 &nbsp;Currently sharpening skills in **async Rust**, **gRPC with Tonic**, **Flutter animations**, and **LLM agent orchestration**
+> 💡 &nbsp;Believer in *small surface area, deep correctness* — types over tests, ownership over guesswork
+> 📫 &nbsp;Reach me at **dev.maan707@gmail.com** for collabs, freelance, or a good code review
 
+<!-- ╭─── CONNECT ────────────────────────────────────────────────────╮ -->
 
+## 🌐 &nbsp; Let's Connect
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devmaan707&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=devmaan707&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devmaan707&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=devmaan707&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<a href="https://twitter.com/i_devmaan" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+</a>
+<a href="https://linkedin.com/in/mohammed-aymaan" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/i.devmaan" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="mailto:dev.maan707@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/devmaan707">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
+</div>
 
+<!-- ╭─── TECH STACK ─────────────────────────────────────────────────╮ -->
 
+## 🛠️ &nbsp; Tech Stack
+
+<div align="center">
+
+### &nbsp; ⚡ &nbsp; Core Languages
+
+<img src="https://skillicons.dev/icons?i=rust,go,dart,typescript,python,java,c,cpp&theme=dark&perline=8" alt="Core languages"/>
+
+### &nbsp; 📱 &nbsp; Mobile & Frontend
+
+<img src="https://skillicons.dev/icons?i=flutter,react,nextjs,tailwind,bootstrap,html,css,figma&theme=dark&perline=8" alt="Mobile & frontend"/>
+
+### &nbsp; ⚙️ &nbsp; Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,spring,nginx,graphql,postman&theme=dark&perline=7" alt="Backend & APIs"/>
+
+### &nbsp; 🗄️ &nbsp; Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite&theme=dark&perline=5" alt="Databases"/>
+
+### &nbsp; ☁️ &nbsp; Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,githubactions&theme=dark&perline=7" alt="Cloud & DevOps"/>
+
+### &nbsp; 🤖 &nbsp; AI / ML
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark&perline=4" alt="AI/ML"/>
+
+</div>
+
+<!-- ╭─── FEATURED FOCUS ─────────────────────────────────────────────╮ -->
+
+## 🎯 &nbsp; What I'm Building With
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" width="64" height="64" alt="Rust"/>
+
+### Rust 🦀
+*Systems & Backend*
+
+`Tokio` · `Axum` · `Tonic`
+`Serde` · `SQLx` · `WASM`
+
+Memory-safe services that
+scream at the speed of light.
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="64" height="64" alt="Go"/>
+
+### Go 🐹
+*Cloud Native*
+
+`gRPC` · `Gin` · `Fiber`
+`NATS` · `Cobra` · `Kafka`
+
+Concurrent backends that
+deploy and scale gracefully.
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="64" height="64" alt="Flutter"/>
+
+### Flutter 💙
+*Cross-Platform*
+
+`Riverpod` · `Bloc` · `GoRouter`
+`Hive` · `Rive` · `Lottie`
+
+Pixel-perfect apps for iOS,
+Android, web and desktop.
+
+</td>
+</tr>
+</table>
+
+<!-- ╭─── GITHUB STATS ───────────────────────────────────────────────╮ -->
+
+## 📊 &nbsp; GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/devmaan707">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=devmaan707&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F74C00&icon_color=F74C00&text_color=C9D1D9" alt="GitHub stats"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=devmaan707&theme=tokyonight&hide_border=true&background=0D1117&ring=F74C00&fire=F74C00&currStreakLabel=F74C00" alt="Streak stats"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/devmaan707">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmaan707&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F74C00&text_color=C9D1D9&langs_count=10" alt="Top languages"/>
+</a>
+
+</div>
+
+<!-- ╭─── ACTIVITY GRAPH ─────────────────────────────────────────────╮ -->
+
+## 📈 &nbsp; Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devmaan707&bg_color=0D1117&color=F74C00&line=F74C00&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity graph"/>
+
+<br/><br/>
+
+<!-- Snake animation — needs the snake.yml workflow in your profile repo -->
+<img src="https://raw.githubusercontent.com/devmaan707/devmaan707/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake eating contributions"/>
+
+</div>
+
+<!-- ╭─── TROPHIES ───────────────────────────────────────────────────╮ -->
+
+## 🏆 &nbsp; Trophies
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=devmaan707&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub trophies"/>
+</a>
+
+</div>
+
+<!-- ╭─── PROFILE VIEWS ──────────────────────────────────────────────╮ -->
+
+## 👀 &nbsp; Visitors
+
+<div align="center">
+
+<img src="https://profile-counter.glitch.me/devmaan707/count.svg" alt="Visitor counter"/>
+
+</div>
+
+<!-- ╭─── QUOTE ──────────────────────────────────────────────────────╮ -->
+
+## 💭 &nbsp; Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
+
+</div>
+
+<!-- ╭─── FOOTER ─────────────────────────────────────────────────────╮ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%" alt="Footer"/>
+
+<sub>⭐ &nbsp; <i>If you like what you see, drop a follow or a star — it fuels the next late-night commit.</i></sub>
+
+</div>
