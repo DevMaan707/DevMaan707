@@ -242,13 +242,6 @@ Android, web and desktop.
 
 <!-- ╭─── PROFILE VIEWS ──────────────────────────────────────────────╮ -->
 
-## 👀 &nbsp; Visitors
-
-<div align="center">
-
-<img src="https://profile-counter.glitch.me/devmaan707/count.svg" alt="Visitor counter"/>
-
-</div>
 
 <!-- ╭─── FOOTER ─────────────────────────────────────────────────────╮ -->
 
