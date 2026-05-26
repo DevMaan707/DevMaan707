@@ -72,16 +72,14 @@ impl Developer {
 
 <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" width="240" alt="Coding"/>
 
-<br/><br/>
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" width="100%" alt="Joke of the day"/>
-
 </td>
 </tr>
 </table>
 
 > 🌱 &nbsp;Currently sharpening skills in **async Rust**, **gRPC with Tonic**, **Flutter animations**, and **LLM agent orchestration**
+>
 > 💡 &nbsp;Believer in *small surface area, deep correctness* — types over tests, ownership over guesswork
+>
 > 📫 &nbsp;Reach me at **dev.maan707@gmail.com** for collabs, freelance, or a good code review
 
 <!-- ╭─── CONNECT ────────────────────────────────────────────────────╮ -->
@@ -198,14 +196,14 @@ Android, web and desktop.
 <div align="center">
 
 <a href="https://github.com/devmaan707">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=devmaan707&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F74C00&icon_color=F74C00&text_color=C9D1D9" alt="GitHub stats"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=devmaan707&theme=tokyonight&hide_border=true&background=0D1117&ring=F74C00&fire=F74C00&currStreakLabel=F74C00" alt="Streak stats"/>
+  <img height="180" src="https://streak-stats.demolab.com?user=devmaan707&theme=tokyonight&hide_border=true&background=0D1117&ring=F74C00&fire=F74C00&currStreakLabel=F74C00&date_format=M%20j%5B%2C%20Y%5D" alt="Streak stats"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=devmaan707&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F74C00&icon_color=F74C00&text_color=C9D1D9&cache_seconds=14400" alt="GitHub stats"/>
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/devmaan707">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmaan707&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F74C00&text_color=C9D1D9&langs_count=10" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmaan707&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F74C00&text_color=C9D1D9&langs_count=10&cache_seconds=14400" alt="Top languages"/>
 </a>
 
 </div>
@@ -217,11 +215,6 @@ Android, web and desktop.
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devmaan707&bg_color=0D1117&color=F74C00&line=F74C00&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity graph"/>
-
-<br/><br/>
-
-<!-- Snake animation — needs the snake.yml workflow in your profile repo -->
-<img src="https://raw.githubusercontent.com/devmaan707/devmaan707/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake eating contributions"/>
 
 </div>
 
@@ -237,16 +230,6 @@ Android, web and desktop.
 
 </div>
 
-<!-- ╭─── PROFILE VIEWS ──────────────────────────────────────────────╮ -->
-
-## 👀 &nbsp; Visitors
-
-<div align="center">
-
-<img src="https://profile-counter.glitch.me/devmaan707/count.svg" alt="Visitor counter"/>
-
-</div>
-
 <!-- ╭─── QUOTE ──────────────────────────────────────────────────────╮ -->
 
 ## 💭 &nbsp; Random Dev Quote
@@ -254,6 +237,16 @@ Android, web and desktop.
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
+
+</div>
+
+<!-- ╭─── PROFILE VIEWS ──────────────────────────────────────────────╮ -->
+
+## 👀 &nbsp; Visitors
+
+<div align="center">
+
+<img src="https://profile-counter.glitch.me/devmaan707/count.svg" alt="Visitor counter"/>
 
 </div>
 
