@@ -1,4 +1,4 @@
-# Aymaan Mohammed
+# Mohammed Aymaan
 
 Founder & CEO of **[Xyla](https://xyla.thevectorcompany.com)**. Co-founder & CTO of InnovateHealth and VCLabs. Hyderabad.
 
